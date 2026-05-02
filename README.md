@@ -14,7 +14,7 @@
 
 Halo! Saya **Labo Napitupulu**, mahasiswa **Sains Data semester 6 di Institut Teknologi Sumatera (ITERA)**. Fokus utama saya adalah mengekstraksi pola bermakna dari data besar dan membangun model cerdas yang solutif.
 
-*   **Role saat ini:** Asisten Praktikum Algoritma & Pemrograman.
+*   **Role saat ini:** Asisten Praktikum Pemrograman Berbasis Fungsi.
 *   **Fokus Riset:** Implementasi algoritma *From Scratch* untuk pemahaman fundamental ML yang mendalam.
 *   **Aktivitas:** Aktif berkontribusi di **HMSD Adyatama ITERA**.
 
