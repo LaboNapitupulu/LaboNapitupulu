@@ -51,18 +51,37 @@ Halo! Saya **Labo Napitupulu**, mahasiswa **Sains Data semester 6 di Institut Te
 
 ---
 
-### 📊 Professional Insights
+<h3 align="center">📊 GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Labo's Stats" width="100%" height="215"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%" height="215"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaboNapitupulu&theme=radical&utcOffset=7" alt="Productive Time" width="100%" height="215"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaboNapitupulu&theme=radical" alt="Profile Details" width="100%" height="215"/>
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <br>
 
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 
+</div>
 ### 📫 Connect With Me
 
 Saya selalu terbuka untuk diskusi mengenai algoritma, optimasi model, atau proyek pengolahan data.
