@@ -82,6 +82,7 @@ Halo! Saya **Labo Napitupulu**, mahasiswa **Sains Data semester 6 di Institut Te
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
+
 ### 📫 Connect With Me
 
 Saya selalu terbuka untuk diskusi mengenai algoritma, optimasi model, atau proyek pengolahan data.
