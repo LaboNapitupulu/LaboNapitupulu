@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=modern&color=0078D4&height=200&section=header&text=Labo%20John%20Noel%20Napitupulu&fontSize=50&fontAlignY=30&animation=fadeIn" alt="Header Professional" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Labo%20John%20Noel%20Napitupulu&fontSize=45&animation=fadeIn&fontAlignY=38" alt="Header Professional" />
 </p>
 
 <p align="center">
@@ -56,20 +56,20 @@ Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di I
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&count_private=true&rank_icon=github&id=1" alt="Labo's Stats" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&rank_icon=github" alt="Labo's Stats" height="195"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&langs_count=8&id=1" alt="Top Languages" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="195"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaboNapitupulu&theme=radical&utcOffset=7&id=1" alt="Productive Time" height="195"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaboNapitupulu&theme=radical&id=1" alt="Profile Details" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaboNapitupulu&theme=radical&utcOffset=7" alt="Productive Time" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaboNapitupulu&theme=radical" alt="Profile Details" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true&id=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -91,5 +91,5 @@ Saya selalu terbuka untuk diskusi mengenai eksplorasi algoritma, optimasi model 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0078D4&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
