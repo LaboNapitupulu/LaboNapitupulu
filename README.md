@@ -54,23 +54,17 @@ Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di I
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&rank_icon=github" alt="Labo's Stats" height="195"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="195"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&rank_icon=github&v=2" alt="Labo's Stats" height="195"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&langs_count=8&v=2" alt="Top Languages" height="195"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaboNapitupulu&theme=radical&utcOffset=7" alt="Productive Time" height="195"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaboNapitupulu&theme=radical" alt="Profile Details" height="195"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true&v=2" alt="Activity Graph" />
+</div>
 
 ---
 
