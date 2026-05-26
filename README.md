@@ -55,15 +55,19 @@ Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di I
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaboNapitupulu&show_icons=true&theme=radical&rank_icon=github&v=2" alt="Labo's Stats" height="195"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaboNapitupulu&layout=compact&theme=radical&langs_count=8&v=2" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LaboNapitupulu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true&v=2" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=LaboNapitupulu&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaboNapitupulu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
