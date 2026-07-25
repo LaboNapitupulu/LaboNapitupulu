@@ -12,11 +12,11 @@
 
 ### 🔭 Overview
 
-Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di Institut Teknologi Sumatera (ITERA)**. Fokus utama saya adalah mengekstraksi pola bermakna dari data berskala besar dan membangun model cerdas yang solutif.
+Hello! I am **Labo John Noel Napitupulu**, a **6th-semester Data Science student at the Sumatra Institute of Technology (ITERA)**. My primary focus is extracting meaningful patterns from large-scale data and building intelligent, solution-driven models.
 
-* **Role saat ini:** Asisten Praktikum Pemrograman Berbasis Fungsi.
-* **Fokus Riset:** Implementasi algoritma pemelajaran mesin (*Machine Learning*) dari awal (*From Scratch*) untuk pemahaman fundamental yang mendalam.
-* **Aktivitas:** Aktif berkontribusi di **Himpunan Mahasiswa Sains Data (HMSD) Adyatama ITERA**.
+* **Current Role:** Functional Programming Laboratory Assistant.
+* **Research Focus:** Implementing Machine Learning algorithms from scratch to cultivate a profound fundamental understanding.
+* **Activities:** Actively contributing to the Data Science Student Association (HMSD) Adyatama ITERA.
 
 ---
 
@@ -45,10 +45,21 @@ Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di I
 
 ### 📂 Featured Data Voyages
 
-* **[Spotify Odyssey: Interactive Streaming Dashboard](https://github.com/LaboNapitupulu/spotify-odyssey)**: Platform analitik *real-time* berbasis Streamlit & JavaScript untuk memvisualisasikan data historis Spotify menggunakan pipeline ETL *End-to-End* dan *Advanced Web Fetching*.
-* **[Breast Cancer Classification](https://github.com/LaboNapitupulu/Breast-Cancer-Detection-Decision-Tree-Scratch)**: Implementasi model prediktif algoritma *Decision Tree* murni (*from scratch*) untuk diagnosis medis dengan tingkat akurasi mencapai 94.74%.
-* **[Telco Churn Analysis](https://github.com/LaboNapitupulu/Telecom-Churn-Predictive-Analysis)**: Membangun pipeline prediktif untuk strategi retensi pelanggan menggunakan *Logistic Regression* & KNN.
-* **[Academic Data Lake](https://github.com/LaboNapitupulu/Academic-Data-Lake)**: Manajemen arsitektur penyimpanan data mentah untuk kebutuhan riset komputasi statistik.
+* **[Spotify Odyssey: Interactive Streaming Dashboard](https://github.com/LaboNapitupulu/Spotify-Odyssey)**
+  * **Description:** A real-time analytics platform visualizing historical Spotify data leveraging an End-to-End ETL pipeline and Advanced Web Fetching techniques.
+  * **Tech Stack:** `Python`, `FastAPI`, `Streamlit`, `Pandas`, `SQLAlchemy`, `PostgreSQL`
+
+* **[SDG 8 Global Trade Pipeline](https://github.com/LaboNapitupulu/sdg8-global-trade-pipeline)**
+  * **Description:** A full-stack data engineering pipeline and interactive dashboard analyzing global commodity trade statistics to support UN Sustainable Development Goal 8, utilizing the Medallion Architecture.
+  * **Tech Stack:** `Python`, `Apache Spark`, `Pandas`, `Flask`, `SQLite`, `React`, `Vite`
+
+* **[Dog Emotion Classifier](https://github.com/LaboNapitupulu/Dog_Classifier)**
+  * **Description:** A deep learning application designed to classify dog breeds and emotions from images utilizing Convolutional Neural Networks (CNN) and object detection models.
+  * **Tech Stack:** `Python`, `TensorFlow`, `Ultralytics (YOLOv8)`, `OpenCV`, `Flask`, `Scikit-Learn`
+
+* **[Telecom Churn Predictive Analysis](https://github.com/LaboNapitupulu/Telecom-Churn-Predictive-Analysis)**
+  * **Description:** A predictive pipeline for customer retention strategies, forecasting customer churn probabilities through various supervised machine learning algorithms.
+  * **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SHAP`
 
 ---
 
@@ -74,7 +85,7 @@ Halo! Saya **Labo John Noel Napitupulu**, mahasiswa **Sains Data semester 6 di I
 
 ### 📫 Connect With Me
 
-Saya selalu terbuka untuk diskusi mengenai eksplorasi algoritma, optimasi model *Machine Learning*, atau proyek pengolahan data.
+I am always open to professional discussions regarding algorithm exploration, Machine Learning model optimization, or comprehensive data processing projects.
 
 <p align="center">
   <a href="mailto:labo.napitupulu@gmail.com">
