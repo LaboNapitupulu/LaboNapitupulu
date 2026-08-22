@@ -2,9 +2,6 @@
   <img src="./assets/profile-banner.svg" alt="Labo John Noel Napitupulu banner" width="100%" />
 </p>
 
-<h2 align="center">
-  Hi there! 👋 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-</h2> 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,25 +9,23 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</div>
 
 <br/>
 
-## 👨🏻‍💻 About Me
+<h2 align="center">👨🏻‍💻 About Me</h2>
 
-- 🎓 **Data Science Student** (6th-semester) at Sumatra Institute of Technology (ITERA).
-- 💻 **Functional Programming** Laboratory Assistant.
+- 🎓 **Data Science Student** (7th-semester) at Sumatra Institute of Technology (ITERA).
 - 🤖 **Research Focus**: Implementing Machine Learning algorithms from scratch to cultivate a profound fundamental understanding.
 - 🤝 Actively contributing to the **Data Science Student Association** (HMSD) Adyatama ITERA.
 - 🎯 *Goal: Extracting meaningful patterns from large-scale data and building intelligent, solution-driven models.*
 
-## :hammer_and_wrench: Technical Expertise
+<br/>
 
-### 👉 Languages & Tools
+<h2 align="center">🛠️ Technical Expertise</h2>
 
-<p>
+<h3 align="center">👉 Languages & Tools</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -39,9 +34,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 👉 Data Mining & ML
+<h3 align="center">👉 Data Mining & ML</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -51,7 +46,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 📂 Featured Data Voyages
+<br/>
+
+<h2 align="center">📂 Featured Data Voyages</h2>
 
 * 🎧 **[Spotify Odyssey: Interactive Streaming Dashboard](https://github.com/LaboNapitupulu/Spotify-Odyssey)**
   * *A real-time analytics platform visualizing historical Spotify data leveraging an End-to-End ETL pipeline and Advanced Web Fetching techniques.*
@@ -65,28 +62,38 @@
   * *A deep learning application designed to classify dog breeds and emotions from images utilizing Convolutional Neural Networks (CNN).*
   * **Tech Stack:** `Python`, `TensorFlow`, `Ultralytics (YOLOv8)`, `OpenCV`, `Flask`, `Scikit-Learn`
 
-* 📱 **[Telecom Churn Predictive Analysis](https://github.com/LaboNapitupulu/Telecom-Churn-Predictive-Analysis)**
-  * *A predictive pipeline for customer retention strategies, forecasting customer churn probabilities through various supervised ML algorithms.*
-  * **Tech Stack:** `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SHAP`
+* 🗺️ **[GeoSentiment Analyzer](https://github.com/LaboNapitupulu/location-sentiment_analyzer)**
+  * *A full-stack, real-time analytics dashboard that scrapes Google Maps reviews using Playwright and classifies sentiment via IndoBERT, streamed live to the frontend through Server-Sent Events.*
+  * **Tech Stack:** `Python`, `FastAPI`, `Playwright`, `HuggingFace Transformers (IndoBERT)`, `React`, `Vite`
 
-## 📊 GitHub Analytics
+* ⚡ **[Algo-Visualizer](https://github.com/LaboNapitupulu/algo-visualizer)**
+  * *A zero-cost, serverless algorithm visualizer running Python entirely in the browser via WebAssembly (Pyodide), featuring auto-detection of data structures, recursion tree tracing, and time-travel execution.*
+  * **Tech Stack:** `React`, `TypeScript`, `Vite`, `Pyodide (WebAssembly)`, `React Flow`, `Monaco Editor`
+
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LaboNapitupulu&theme=highcontrast&hide_border=false" width="400"/>
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LaboNapitupulu&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaboNapitupulu&theme=dark&layout=compact" width="400"/>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LaboNapitupulu/LaboNapitupulu/output-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
-<p align="center">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaboNapitupulu&theme=dark" alt="Profile Details" />
+</div>
+
+<br/>
+
+<h2 align="center">🤝 Let's Get Connected</h2>
+
+<p align="center">
+  I am always open to professional discussions regarding algorithm exploration, Machine Learning model optimization, or comprehensive data processing projects.
 </p>
-
-## 🤝 Let's get connected
-
-I am always open to professional discussions regarding algorithm exploration, Machine Learning model optimization, or comprehensive data processing projects.
 
 <p align="center">
   <a href="mailto:labo.napitupulu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Labo" /></a>
